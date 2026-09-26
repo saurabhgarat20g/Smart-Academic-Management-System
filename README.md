@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# CDAC Management Portal
+#  Management Portal
 
 ## Overview
-A full-stack web application for managing Student Attendance using QR Codes, created for CDAC Project submission.
+A full-stack web application for managing Student Attendance using QR Codes, created for hackathon Project submission.
 
 ### Tech Stack
 - **Backend:** Spring Boot, Spring Security (JWT), Spring Data JPA, MySQL
